@@ -337,7 +337,7 @@ data:
       - Smithfield, Unit 2, 2B Morialta Drive, Smithfield SA 5114
       - Christies Beach, Unit 3, 107 Dyson Road, Christies Beach SA 5165
      legal issue:
-      - Financial
+       - Financial
       gender:
        - Female
        - Male
